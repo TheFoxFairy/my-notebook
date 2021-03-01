@@ -1,0 +1,20 @@
+{
+    "bookname": "神大人的学习笔记本",
+    "description": "个人学习笔记本",
+    "author": {
+        "name": "神大人",
+        "email": "xxxx@gmail.com"
+    },
+    "keywords": [
+    ],
+
+    "homepage": "https://thefoxfairy.gitbook.io/kamisama/",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/TheFoxFairy/my-notebook.git"
+    },
+    "bugs": {
+        "url": "https://github.com/TheFoxFairy/my-notebook/issues"
+    }
+}
